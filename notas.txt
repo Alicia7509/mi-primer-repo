@@ -3,3 +3,4 @@ copiar codigo
 mis notas sobre Git:
 1.-Git es un sistema de control de versiones
 2.-GitHub es una plataforma para almacenar y compartir proyectos.
+3.-Commit
